@@ -17,4 +17,4 @@ BEGIN
 END
 GO
 
-update vCustomerAddress SET PhoneNo = 1234567891,City = 'Jamnagar'
+update vCustomerAddress SET PhoneNo = 1234567891,City = 'Jamnagar' where CustomerId=1
