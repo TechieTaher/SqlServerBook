@@ -1,0 +1,6 @@
+C:\Users\Taher\source\repos\testregex\testregex\bin\Debug\testregex.dacpac
+C:\Users\Taher\source\repos\testregex\testregex\obj\Debug\testregex.sqlprojAssemblyReference.cache
+C:\Users\Taher\source\repos\testregex\testregex\bin\Debug\testregex.dll
+C:\Users\Taher\source\repos\testregex\testregex\bin\Debug\testregex.pdb
+C:\Users\Taher\source\repos\testregex\testregex\obj\Debug\testregex.dll
+C:\Users\Taher\source\repos\testregex\testregex\obj\Debug\testregex.pdb
