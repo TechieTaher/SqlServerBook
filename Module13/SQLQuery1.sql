@@ -7,7 +7,7 @@ GO
 sp_configure 'clr enabled', 1;
 
 GO
-sp_configure 'clr strict security', 1;
+sp_configure 'clr strict security', 0;
 RECONFIGURE;
 GO 
 
